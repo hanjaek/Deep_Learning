@@ -1,2 +1,2 @@
-# Computer_Graphics
-Computer Graphics Lecture and Study Contents
+# Deep Learning
+Deep Learning Lecture and Study Contents
