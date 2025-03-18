@@ -1,5 +1,5 @@
 import tensorflow as tf
-from lecture.lecture_01.MLP import MLP
+from MLP import MLP
 
 def xor_classifier_example ():
     input_data = tf.constant([[0.0, 0.0], [0.0, 1.0], [1.0, 0.0], [1.0, 1.0]])
