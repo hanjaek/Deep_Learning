@@ -1,6 +1,6 @@
 import tensorflow as tf
 import matplotlib.pyplot as plt
- # from ImageClassifier import ImageClassifier   ## 일단 주석 처리해 둠. ImageClassifier class만들고 나서 주석 해제
+from ImageClassifier import ImageClassifier_MLP 
 
 def run_classifier():
     fashion_mnist = tf.keras.datasets.fashion_mnist
