@@ -4,7 +4,7 @@ from AutoEncoder import AutoEncoder
 import numpy as np
 
 if __name__ == "__main__":
-    
+
     print("Hi. I am an AutoEncoder Tester.")
     batch_size = 32
     num_epochs = 5
